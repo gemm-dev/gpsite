@@ -1,0 +1,22 @@
+#intro {
+      background-color: lightblue;
+    }
+#section1 {
+    color: green;
+    background-color: red;
+    border-style: solid;
+    border-width: 2px;
+  }
+body {
+    font-weight:bold;
+  }
+button{
+  float:left;
+}
+
+#gp {
+  border-radius:20%;
+  padding: 25px 50px 75px 100px;
+  width:50%;
+  visibility:visible;
+}
